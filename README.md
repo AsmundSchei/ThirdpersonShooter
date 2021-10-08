@@ -4,7 +4,7 @@ Thirdperson shooter template for UnrealEngine, featuring EQS AI, weapon pickup a
 features like kill counter and countdown timer. 
 
 Known bugs:
-Ammo empties if swithing to auto shooting mode
+Ammo empties if swithing to auto shooting mode. 
 You have to press P twice to open pause menu
  
 
