@@ -6,7 +6,7 @@ features like kill counter and countdown timer.
 
 Known bugs:
 Ammo empties if swithing to auto shooting mode. 
-You have to press P twice to open pause menu
+You have to press P twice to open pause menu.
 File size: 1.37gb
 
 Special thanks to Matt Aspland, Jason, Reid, Virtus DevSquad, Dave (From EvilEyeGames), Reuben Wards and Ryan Laley
