@@ -3,7 +3,7 @@
 Thirdperson shooter template for UnrealEngine, featuring EQS AI, weapon pickup and switching, animation states such as crouching and aiming. Also got some gameplay 
 features like kill counter and countdown timer. 
 
-Known bugs
+Known bugs:
 Ammo empties if swithing to auto shooting mode
  
 
