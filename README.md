@@ -3,6 +3,9 @@
 Thirdperson shooter template for UnrealEngine, featuring EQS AI, saving/loading and character animation setup. Also got some gameplay 
 features like kill counter and countdown timer. Gun pickup and switching is postponed until I got saving/loading working properly. By now saving/loading only works if the gun blueprint is attached to the character. You can use gun pickup and switching if you want, but then the saving and loading wont work properly.
 
+You can see a preview of the EQS AI here:
+https://twitter.com/AsmundSchei/status/1447323799054163969
+
 
 
 File size: 1.37gb
